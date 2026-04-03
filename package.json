@@ -14,8 +14,8 @@
   "contributes": {
     "commands": [
       {
-        "command": "noob-scan.helloWorld",
-        "title": "Hello World"
+        "command": "noob-scan.scan",
+        "title": "Scan"
       }
     ]
   },
