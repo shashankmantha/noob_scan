@@ -12,12 +12,16 @@
   "activationEvents": [],
   "main": "./out/extension.js",
   "contributes": {
-    "commands": [
-      {
-        "command": "noob-scan.scan",
-        "title": "Scan"
-      }
-    ]
+  "commands": [
+  {
+    "command": "noob-scan.scan",
+    "title": "Scan Current File"
+  },
+  {
+    "command": "noob-scan.scanWorkspace",
+    "title": "Scan Workspace"
+  }
+]
   },
   "scripts": {
     "vscode:prepublish": "npm run compile",
