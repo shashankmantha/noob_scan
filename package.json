@@ -20,6 +20,10 @@
   {
     "command": "noob-scan.scanWorkspace",
     "title": "Scan Workspace"
+  },
+  {
+  "command": "noob-scan.openScanner",
+  "title": "Open Scanner"
   }
 ]
   },
