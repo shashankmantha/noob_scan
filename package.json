@@ -24,6 +24,10 @@
   {
   "command": "noob-scan.openScanner",
   "title": "Open Scanner"
+  },
+  {
+    "command": "noob-scan.openDashboard",
+    "title": "Open Scanner Dashboard"
   }
 ]
   },
